@@ -7,4 +7,21 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/401-advanced-javascript-mspake/lab-00/pull/1)
-* [travis](https://www.travis-ci.com/401-advanced-javascript-mspake/lab-00)
+* [travis](https://www.travis-ci.com/401-advanced-javascript-mspake/lab-00)  
+  
+### Modules  
+#### `pol.js`  
+##### Exported Values and Methods
+
+###### `isAlive() -> boolean`  
+  
+### Setup
+#### `.env` requirements
+* `PORT` - Port Number
+
+#### Running the app  
+* `npm install`  
+* `npm start`  
+  
+#### Tests
+* `npm test`
