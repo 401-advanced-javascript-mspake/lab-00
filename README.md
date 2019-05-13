@@ -6,8 +6,10 @@
 ### Morgana Spake  
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-mspake/lab-00/pull/2)
-* [travis](https://www.travis-ci.com/401-advanced-javascript-mspake/lab-00)  
+
+* [submission PR](https://github.com/401-advanced-javascript-mspake/lab-00/pull/3)
+* [travis](https://www.travis-ci.com/401-advanced-javascript-mspake/lab-00) 
+* [heroku](https://mspake-401-lab00.herokuapp.com/)   
   
 ### Modules  
 #### `pol.js`  
